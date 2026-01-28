@@ -1,24 +1,57 @@
-# 💫 About Me:
+## 💫 About Me
+
 <h2 align="center">Hi 👋, I'm Mainul Islam</h2>
 
-From code to cloud: Aspiring AWS DevOps Engineer. MERN Stack Developer, JavaScript, and Python.<br>I’m currently learning **Amazon Web Services, Linux, Shell Scripting, Kubernetes, Docker, CICD, Security etc.**<br>I am graduating on **Physics** at National University, Bangladesh.
+🚀 **DevSecOps Engineer | Cloud & Automation Enthusiast | MERN Stack Developer**
 
+I am a passionate **DevSecOps Engineer** with hands-on experience in designing, automating, and securing cloud-native infrastructures on **AWS**. I enjoy working at the intersection of **development, operations, and security**, ensuring scalable, reliable, and secure delivery pipelines.
 
-<h2>🛠️ What I am learning and exploring </h2>
-Here are some of the technologies I'm currently working with or aspiring to master:
+I have practical experience with **CI/CD pipelines, Infrastructure as Code, containerization, monitoring, and secrets management**, gained through real-world DevSecOps projects and hands-on labs. Alongside DevOps, I also have a solid foundation in **full-stack web development (MERN)**, which helps me collaborate effectively with development teams.
 
-<h4>Cloud & DevOps: <i>AWS (EC2, S3, Lambda, VPC, etc.), Docker, Linux, Shell Scripting, Kubernetes CI/CD principles </i></h4>
+🎓 I am currently completing my **Bachelor’s degree in Physics** from **National University, Bangladesh**, which has strengthened my analytical and problem-solving skills.
 
+---
 
-<h4>Frontend: <i>React.js, HTML5, CSS3, Tailwind CSS </i></h4> 
+## 🛠️ What I’m Working With & Exploring
 
-<h4>Backend: <i>Node.js, Express.js </i></h4> 
+### ☁️ Cloud & DevSecOps
+- **AWS**: EC2, VPC, IAM, S3, ALB/NLB, ACM, Route53  
+- **CI/CD**: GitHub Actions, Jenkins, GitHub Runners  
+- **Containers & Orchestration**: Docker, Kubernetes (EKS, Helm, Ingress)  
+- **Configuration & Automation**: Linux, Shell Scripting, Ansible  
+- **Infrastructure as Code**: Terraform  
+- **Security & Observability**:  
+  - HashiCorp Vault (Secrets Management)  
+  - ELK Stack (Logging & Monitoring)  
+  - DevSecOps best practices (shift-left security, least privilege, secure pipelines)
 
-<h4>Database: <i>MongoDB </i></h4> 
+---
 
-<h4>Languages: <i> JavaScript, Python </i></h4>
+### 🌐 Frontend
+- React.js  
+- HTML5, CSS3  
+- Tailwind CSS  
 
-<h4>Version Control: <i> Git, GitHub </i></h4> 
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+
+### 🗄️ Database
+- MongoDB  
+
+### 💻 Programming Languages
+- JavaScript  
+- Python  
+
+### 🔧 Version Control
+- Git  
+- GitHub  
+
+---
+
+💡 **Focus Areas**: Cloud Security, Scalable Infrastructure, Automation, Kubernetes Security, and Production-Ready DevOps Systems  
+📌 **Goal**: To build secure, reliable, and automated cloud systems following real-world DevSecOps practices
+
 
 
 # 💻 Tech Stack:
