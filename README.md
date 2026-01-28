@@ -27,31 +27,8 @@ I have practical experience with **CI/CD pipelines, Infrastructure as Code, cont
 
 ---
 
-### 🌐 Frontend
-- React.js  
-- HTML5, CSS3  
-- Tailwind CSS  
-
-### ⚙️ Backend
-- Node.js  
-- Express.js  
-
-### 🗄️ Database
-- MongoDB  
-
-### 💻 Programming Languages
-- JavaScript  
-- Python  
-
-### 🔧 Version Control
-- Git  
-- GitHub  
-
----
-
 💡 **Focus Areas**: Cloud Security, Scalable Infrastructure, Automation, Kubernetes Security, and Production-Ready DevOps Systems  
 📌 **Goal**: To build secure, reliable, and automated cloud systems following real-world DevSecOps practices
-
 
 
 # 💻 Tech Stack:
