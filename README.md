@@ -38,5 +38,10 @@ I have practical experience with **CI/CD pipelines, Infrastructure as Code, cont
 <p align="left">
 <a href="https://www.linkedin.com/in/name-mainul-islam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/name-mainul-islam" height="30" width="40" /></a>
 </p>
+## 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/name-mainul-islam)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mainulislam6168@gmail.com)
+
 
 
