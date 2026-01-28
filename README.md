@@ -37,11 +37,11 @@ I have practical experience with **CI/CD pipelines, Infrastructure as Code, cont
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/name-mainul-islam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/name-mainul-islam" height="30" width="40" /></a>
-<a href="mailto:mainulislam6168@gmail.com"><img align="center" src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email" height="30" /></a>
+<a href="mailto:mainulislam6168@gmail.com"><img align="center" src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email" height="30 px-10" /></a>
 </p>
 </p>
 <h3 align="left">Connect with me:</h3>
-<div align="left">
+<div align="left" className='flex justify-center items-center'>
   <a href="https://www.linkedin.com/in/name-mainul-islam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/name-mainul-islam" height="30" width="40" /></a>
 <a href="mailto:mainulislam6168@gmail.com"><img align="center" src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email" height="30" /></a>
 </div>
