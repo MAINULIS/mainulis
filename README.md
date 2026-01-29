@@ -26,11 +26,11 @@ I have practical experience with **CI/CD pipelines, Infrastructure as Code, cont
   - VPC, subnets, security groups, firewalls, SSL/TLS, IAM, Trivy, Istio (Networking & Security)
   - DevSecOps best practices (shift-left security, least privilege, secure pipelines)
 
----
 
 💡 **Focus Areas**: Cloud Security, Scalable Infrastructure, Automation, Kubernetes Security, and Production-Ready DevOps Systems  
 📌 **Goal**: To build secure, reliable, and automated cloud systems following real-world DevSecOps practices
 
+---
 
 ## 💻 **Tech Stack**:
 
@@ -58,6 +58,9 @@ I have practical experience with **CI/CD pipelines, Infrastructure as Code, cont
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
 
+
+---
+
 <h3 align="left">Connect with me 🤝:</h3>
 <table border="0">
   <tr>
@@ -79,7 +82,16 @@ I have practical experience with **CI/CD pipelines, Infrastructure as Code, cont
       </a>
     </td>
   </tr>
-</table>
+</table> 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MAINUL ISLAM&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MAINUL ISLAM&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAINUL ISLAM&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MAINUL ISLAM&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
