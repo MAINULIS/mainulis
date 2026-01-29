@@ -22,7 +22,7 @@ I have practical experience with **CI/CD pipelines, Infrastructure as Code, cont
 - **Infrastructure as Code**: Terraform  
 - **Security & Observability**:  
   - HashiCorp Vault (Secrets Management)  
-  - ELK Stack, Prometheus, Grafana (Logging & Monitoring)
+  - ELK Stack, Prometheus, Grafana, NewRelic (Logging & Monitoring)
   - VPC, subnets, security groups, firewalls, SSL/TLS, IAM, Trivy, Istio (Networking & Security)
   - DevSecOps best practices (shift-left security, least privilege, secure pipelines)
 
