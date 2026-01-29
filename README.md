@@ -67,7 +67,7 @@ I have practical experience with **CI/CD pipelines, Infrastructure as Code, cont
     </td>
     <td width="15"></td>
     <td>
-      <a href="https://wa.me/YOUR_PHONE_NUMBER" target="blank">
+      <a href="https://wa.me/8801726276168" target="blank">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30" />
       </a>
     </td>
