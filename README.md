@@ -18,11 +18,12 @@ I have practical experience with **CI/CD pipelines, Infrastructure as Code, cont
 - **AWS**: EC2, VPC, IAM, S3, ALB/NLB, ACM, Route53  
 - **CI/CD**: GitHub Actions, Jenkins, GitHub Runners  
 - **Containers & Orchestration**: Docker, Kubernetes (EKS, Helm, Ingress)  
-- **Configuration & Automation**: Linux, Shell Scripting, Ansible  
+- **Configuration & Automation**: Linux, Ansible, Shell Scripting, HCL
 - **Infrastructure as Code**: Terraform  
 - **Security & Observability**:  
   - HashiCorp Vault (Secrets Management)  
-  - ELK Stack (Logging & Monitoring)  
+  - ELK Stack, Prometheus, Grafana (Logging & Monitoring)
+  - VPC, subnets, security groups, firewalls, SSL/TLS, IAM, Trivy, Istio (Networking & Security)
   - DevSecOps best practices (shift-left security, least privilege, secure pipelines)
 
 ---
@@ -30,9 +31,6 @@ I have practical experience with **CI/CD pipelines, Infrastructure as Code, cont
 💡 **Focus Areas**: Cloud Security, Scalable Infrastructure, Automation, Kubernetes Security, and Production-Ready DevOps Systems  
 📌 **Goal**: To build secure, reliable, and automated cloud systems following real-world DevSecOps practices
 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=html5&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 
 ## 💻 **Tech Stack**:
 
@@ -48,6 +46,8 @@ I have practical experience with **CI/CD pipelines, Infrastructure as Code, cont
 ![Vault](https://img.shields.io/badge/Vault-000000?style=flat&logo=vault&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ### 🌐 Web & Programming
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -55,6 +55,7 @@ I have practical experience with **CI/CD pipelines, Infrastructure as Code, cont
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
@@ -62,6 +63,28 @@ I have practical experience with **CI/CD pipelines, Infrastructure as Code, cont
 <a href="mailto:mainulislam6168@gmail.com"><img align="center" src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email" height="30 bx-10" /></a>
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/name-mainul-islam/" target="blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
+      </a>
+    </td>
+    <td width="15"></td>
+    <td>
+      <a href="https://wa.me/YOUR_PHONE_NUMBER" target="blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30" />
+      </a>
+    </td>
+    <td width="15"></td>
+    <td>
+      <a href="mailto:mainulislam6168@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
