@@ -6,7 +6,7 @@
 
 I am a passionate **DevSecOps Engineer** with hands-on experience in designing, automating, and securing cloud-native infrastructures on **AWS**. I enjoy working at the intersection of **development, operations, and security**, ensuring scalable, reliable, and secure delivery pipelines.
 
-I have practical experience with **CI/CD pipelines, Infrastructure as Code, containerization, monitoring, and secrets management**, gained through real-world DevSecOps projects and hands-on labs. Alongside DevOps, I also have a solid foundation in **full-stack web development (MERN)**, which helps me collaborate effectively with development teams.
+I have practical experience with **CI/CD pipelines, Infrastructure as Code, containerization, monitoring, and secrets management**, gained through real-world DevSecOps projects and hands-on labs. Alongside DevOps, I also have a solid foundation in **frontend web development (MERN)**, which helps me collaborate effectively with development teams.
 
 🎓 I am currently completing my **Bachelor’s degree in Physics** from **National University, Bangladesh**, which has strengthened my analytical and problem-solving skills.
 
