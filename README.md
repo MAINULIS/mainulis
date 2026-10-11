@@ -4,9 +4,19 @@
 
 🚀 **DevSecOps Engineer | Cloud & Automation Enthusiast | MERN Stack Developer**
 
-I am a passionate **DevSecOps Engineer** with hands-on experience in designing, automating, and securing cloud-native infrastructures on **AWS**. I enjoy working at the intersection of **development, operations, and security**, ensuring scalable, reliable, and secure delivery pipelines.
+I’m a DevSecOps engineer who builds and secures AWS delivery pipelines. My MERN background means I understand and build the applications I deploy, not just the infrastructure underneath.
 
-I have practical experience with **CI/CD pipelines, Infrastructure as Code, containerization, monitoring, and secrets management**, gained through real-world DevSecOps projects and hands-on labs. Alongside DevOps, I also have a solid foundation in **frontend web development (MERN)**, which helps me collaborate effectively with development teams.
+At Softoryze, I automate deployments with CI/CD and Infrastructure as Code, building security checks into the pipeline instead of adding them at the end.
+
+**Stack:** AWS (EC2, VPC, IAM, S3, EKS), Terraform, Ansible, Docker, Kubernetes/Helm, GitHub Actions, HashiCorp Vault, Trivy, Prometheus, Grafana, ELK.
+
+**Recent work:**
+
+• RoboShop: a microservices e-commerce platform on EKS, provisioned with Terraform and Ansible and deployed with Helm and GitHub Actions. It uses Vault for secrets, Trivy for scanning, and Istio, with Prometheus/Grafana/ELK for monitoring.
+
+• A frontend course marketplace in React, Node.js and MongoDB with Firebase auth and payments.
+
+**Reach out** if you’re hiring for DevSecOps, cloud or platform roles, or want someone who connects development, operations and security.
 
 🎓 I am currently completing my **Bachelor’s degree in Physics** from **National University, Bangladesh**, which has strengthened my analytical and problem-solving skills.
 
