@@ -75,7 +75,7 @@ At Softoryze, I automate deployments with CI/CD and Infrastructure as Code, buil
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=MAINULIS&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=percentile&custom_title=Mainul%20Islam%27s%20GitHub%20Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=MAINULIS&show_icons=true&theme=github_dark&hide_border=true&rank_icon=percentile&custom_title=Mainul%20Islam%27s%20GitHub%20Stats" />
 </td>
 <td width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAINULIS&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=400" />
@@ -90,29 +90,46 @@ At Softoryze, I automate deployments with CI/CD and Infrastructure as Code, buil
   />
 </p>
 
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/MAINULIS">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=MAINULIS&bg_color=0d1117&color=58a6ff&line=3b82f6&point=58a6ff&area=true&hide_border=true&custom_title=Mainul%20Islam%27s%20Contribution%20Graph"
+      alt="Mainul's Contribution Graph"
+      width="100%"
+    />
+  </a>
+</p>
+
+
 ---
 
-<h3 align="left">Connect with me 🤝:</h3>
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/name-mainul-islam/" target="blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
-      </a>
-    </td>
-    <td width="15"></td>
-    <td>
-      <a href="https://wa.me/8801726276168" target="blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30" />
-      </a>
-    </td>
-    <td width="15"></td>
-    <td>
-      <a href="mailto:mainulislam6168@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30" />
-      </a>
-    </td>
-  </tr>
-</table> 
+<h2 align="center">🌐 Let's Connect!</h2>
+
+<p align="center">
+  <i>I'm always interested in connecting with developers, engineers, and technology enthusiasts.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MAINULIS" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/name-mainul-islam/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mainulislam6168@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://mainulsportfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>DevSecOps Engineer | Full Stack Developer</b>
+</p>
+
 
 
