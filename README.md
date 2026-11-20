@@ -70,6 +70,27 @@ At Softoryze, I automate deployments with CI/CD and Infrastructure as Code, buil
 
 
 ---
+## 📊 GitHub Analytics
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=MAINULIS&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=percentile&custom_title=Mainul%20Islam%27s%20GitHub%20Stats" />
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAINULIS&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=400" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=MAINULIS&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+</p>
+
+---
 
 <h3 align="left">Connect with me 🤝:</h3>
 <table border="0">
